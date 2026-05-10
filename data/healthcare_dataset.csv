@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Disease,Blood_Pressure,Cholesterol
+1,45,Male,Hypertension,140,220
+2,50,Female,Diabetes,130,210
+3,36,Male,Heart Disease,150,240
+4,29,Female,Healthy,120,180
+5,60,Male,Hypertension,160,260
